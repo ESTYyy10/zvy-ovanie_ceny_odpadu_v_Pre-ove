@@ -1,2 +1,2 @@
-# zvy-ovanie_ceny_odpadu_v_Pre-ove
+# zvysovanie_ceny_odpadu_v_Presove
 zvyšovanie_ceny_odpadu_v_Prešove
